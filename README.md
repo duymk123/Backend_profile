@@ -1,6 +1,6 @@
 # 🛣️ ROADMAP JAVA BACKEND 6 THÁNG
 
-🔹 THÁNG 1 – JAVA CORE + OOP (NỀN TẢNG SỐNG CÒN)
+# 🔹 THÁNG 1 – JAVA CORE + OOP (NỀN TẢNG SỐNG CÒN)
 Kiến thức
 
 Java syntax
@@ -39,7 +39,7 @@ Lưu file .dat
 
 OOP + ArrayList
 
-🔹 THÁNG 2 – SQL + JDBC
+# 🔹 THÁNG 2 – SQL + JDBC
 Kiến thức
 
 MySQL
@@ -68,7 +68,7 @@ JDBC
 
 Menu console
 
-🔹 THÁNG 3 – WEB + HTTP + REST
+# 🔹 THÁNG 3 – WEB + HTTP + REST
 Kiến thức
 
 HTTP
@@ -95,7 +95,7 @@ GET / POST / PUT / DELETE
 
 Test bằng Postman
 
-🔹 THÁNG 4 – SPRING BOOT + DATABASE
+# 🔹 THÁNG 4 – SPRING BOOT + DATABASE
 Kiến thức
 
 Spring Boot structure
@@ -122,7 +122,7 @@ CRUD khách hàng
 
 MySQL + JPA
 
-🔹 THÁNG 5 – AUTH + SECURITY
+# 🔹 THÁNG 5 – AUTH + SECURITY
 Kiến thức
 
 Login / Register
@@ -143,7 +143,7 @@ Phân quyền
 
 API bảo mật
 
-🔹 THÁNG 6 – HOÀN THIỆN + DEPLOY
+# 🔹 THÁNG 6 – HOÀN THIỆN + DEPLOY
 Kiến thức
 
 Docker (cơ bản)

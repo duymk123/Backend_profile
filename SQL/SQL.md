@@ -1,5 +1,5 @@
 # ĐỀ BÀI: HỆ THỐNG QUẢN LÝ ĐƠN HÀNG
-** Bối cảnh: Bạn được thuê làm Backend Dev cho một cửa hàng tạp hóa. Chủ cửa hàng cần một hệ thống lưu trữ thông tin Khách hàng, Sản phẩm và lịch sử Đơn hàng. **
+**Bối cảnh: Bạn được thuê làm Backend Dev cho một cửa hàng tạp hóa. Chủ cửa hàng cần một hệ thống lưu trữ thông tin Khách hàng, Sản phẩm và lịch sử Đơn hàng.**
 
 Phần 1: Thiết kế Database (DDL)
 Hãy viết câu lệnh SQL để tạo Database tên là QuanLyBanHang và 3 bảng sau:
